@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ajoutbien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="annonces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="clientacheter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="clientlouer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="factureclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inscrire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listeclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listepropriétaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notifclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notifprop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="propriétaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

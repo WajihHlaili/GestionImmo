@@ -1,0 +1,158 @@
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.exe
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.deps.json
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.runtimeconfig.json
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.AssemblyReference.cache
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.inscrire.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.login.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Properties.Resources.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.GenerateResource.cache
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfoInputs.cache
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfo.cs
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CoreCompileInputs.cache
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\refint\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.genruntimeconfig.cache
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ref\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.admin.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.annonces.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.client.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.listeclient.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Listepropriétaire.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.propriétaire.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.transaction.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CopyComplete
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.ajoutbien.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientacheter.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientlouer.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.factureclient.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifclient.resources
+C:\Users\21694\source\repos\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifprop.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.exe
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.deps.json
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.runtimeconfig.json
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.admin.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.ajoutbien.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.annonces.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.client.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientacheter.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientlouer.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.factureclient.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.inscrire.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.listeclient.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Listepropriétaire.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.login.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifclient.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifprop.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.propriétaire.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.transaction.resources
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfo.cs
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CopyComplete
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\refint\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.genruntimeconfig.cache
+C:\Users\user\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ref\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.exe
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.deps.json
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.runtimeconfig.json
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.AssemblyReference.cache
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.admin.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.ajoutbien.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.annonces.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.client.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientacheter.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientlouer.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.factureclient.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.inscrire.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.listeclient.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Listepropriétaire.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.login.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifclient.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifprop.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Properties.Resources.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.propriétaire.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.transaction.resources
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.GenerateResource.cache
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfoInputs.cache
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfo.cs
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CoreCompileInputs.cache
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CopyComplete
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\refint\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.genruntimeconfig.cache
+C:\Users\21694\Desktop\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ref\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.AssemblyReference.cache
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.admin.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.ajoutbien.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.annonces.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.client.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientacheter.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.clientlouer.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.factureclient.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.inscrire.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.listeclient.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Listepropriétaire.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.login.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifclient.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.notifprop.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Properties.Resources.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.propriétaire.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.transaction.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.GenerateResource.cache
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfoInputs.cache
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.AssemblyInfo.cs
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\refint\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.exe
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.deps.json
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.runtimeconfig.json
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.pdb
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.csproj.CopyComplete
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD'AgenceImmobilière.genruntimeconfig.cache
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ref\ProjetGestionD'AgenceImmobilière.dll
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.LoadingForm.resources
+C:\Users\SBS\Downloads\ProjetGestionDAgence.. (1)\ProjetGestionDAgence.. (1)\ProjetGestionD'AgenceImmobilière\ProjetGestionD'AgenceImmobilière\obj\Debug\net6.0-windows\ProjetGestionD_AgenceImmobilière.Details.resources
